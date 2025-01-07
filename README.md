@@ -137,5 +137,3 @@ Ein Discord-Bot, der ein XP-System, automatische Rollenvergabe und eine Rickroll
 ## Lizenz
 
 Dieser Bot ist unter der [MIT License](LICENSE) lizenziert.
-
-# discord-bot
