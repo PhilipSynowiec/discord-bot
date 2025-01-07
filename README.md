@@ -1,6 +1,6 @@
-# Discord XP & Rickroll Bot
+# Discord
 
-Ein Discord-Bot, der ein XP-System, automatische Rollenvergabe und eine Rickroll-Funktionalität bietet. Dieser Bot wurde entwickelt, um die Programmierfortschritte zu demonstrieren und kann einfach angepasst und erweitert werden.
+Ein Discord-Bot, der ein XP-System, automatische Rollenvergabe und eine Rickroll-Funktionalität bietet. Dieser Bot wurde ursprünglich während der Corona-Pandemie für den Discord-Server meiner Jahrgangsstufe entwickelt.
 
 ## Inhaltsverzeichnis
 
@@ -133,10 +133,6 @@ Ein Discord-Bot, der ein XP-System, automatische Rollenvergabe und eine Rickroll
 3. **Berechtigungen:**
 
    - Einige Befehle erfordern Administratorrechte. Stelle sicher, dass das ausführende Mitglied die entsprechenden Berechtigungen hat.
-
-## Mitwirkende
-
-- **Dein Name** - [Dein GitHub Profil](https://github.com/DEIN_GITHUB_PROFIL)
 
 ## Lizenz
 
