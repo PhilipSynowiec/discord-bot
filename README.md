@@ -32,8 +32,8 @@ Ein Discord-Bot, der ein XP-System, automatische Rollenvergabe und eine Rickroll
 1. **Repository klonen:**
 
    ```bash
-   git clone https://github.com/DEIN_GITHUB_REPO/discord-xp-rickroll-bot.git
-   cd discord-xp-rickroll-bot
+   git clone https://github.com/DEIN_GITHUB_REPO/discord-bot.git
+   cd discord-bot
    ```
 
 2. **Virtuelle Umgebung erstellen und aktivieren (optional, aber empfohlen):**
